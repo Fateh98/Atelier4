@@ -9,7 +9,7 @@ totalLivres++;
   }
 void afficherInfos() {
 print('Titre: $titre, Auteur: $auteur');
-   }
+  }
 static void afficherTotalLivres() {
 print('Nombre total de livres : $totalLivres');
   }
