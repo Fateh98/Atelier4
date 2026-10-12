@@ -30,5 +30,5 @@ Film('Avatar', 162),
 ];
 for (var media in catalogue) {
 media.afficherType();
-   }
+    }
 }
