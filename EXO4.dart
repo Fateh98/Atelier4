@@ -19,7 +19,7 @@ Film(String titre, this.dureeMinutes) : super(titre);
 @override
 void afficherType() {
 print('Ceci est un Film : $titre, durée $dureeMinutes minutes.');
-  }
+   }
 }
 void main() {
 List<Media> catalogue = [
