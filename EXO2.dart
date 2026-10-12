@@ -6,7 +6,7 @@ void move(double dx, double dy) {
 _x += dx;
 _y += dy;
 }
-void display() {
+void display()  {
 print('($_x, $_y)');
   }
 }
